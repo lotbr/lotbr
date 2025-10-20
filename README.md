@@ -32,8 +32,8 @@ My main goal is to create projects that look great, run smoothly, and solve real
 
 ## 📊 GitHub Status
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardotristao&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotristao&layout=compact&theme=tokyonight)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lotbr&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotbr&layout=compact&theme=tokyonight)
 
 ---
 

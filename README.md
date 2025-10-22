@@ -42,8 +42,8 @@ My main goal is to create projects that look great, run smoothly, and solve real
 📫 **Let's connect!**  
 Feel free to reach out — I’m always open to talk about tech, design, or new ideas.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eduardotristao-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/eduardotristao)  
-[![Email](https://img.shields.io/badge/Email-edutrst%40example.com-red?style=flat-square&logo=gmail)](mailto:edutrst@example.com)  
+[![Email](https://img.shields.io/badge/Email-eh411562trabalho%40gmail.com-red?style=flat-square&logo=gmail)](mailto:eh411562trabalho@gmail.com)
+
 
 ---
 
